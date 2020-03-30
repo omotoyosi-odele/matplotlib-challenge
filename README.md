@@ -5,4 +5,4 @@ Matplotlib Challenge
 Omotoyosi Odele
 
 # Objective
-Using matplotlib, pandas and numpy to create plots, charts for qualitative data assessment and statistical functions to quantitatively assess data
+Using matplotlib, pandas, numpy and scipy for qualitative and quantitative data assessment by creating plots, charts and using statistical functions to provide insights
